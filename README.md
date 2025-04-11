@@ -33,14 +33,23 @@ Sou desenvolvedor apaixonado por resolver problemas através da tecnologia. 🚀
 
 ## 📊 GitHub Stats:
 
-![Gustavo Zago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Zago&show_icons=true&theme=dracula)
+<div align="center">
+    ![Gustavo Zago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Zago&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Zago&layout=compact&theme=dracula)
-
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Zago&layout=compact&theme=dracula)
+</div>
 ---
 
-## 📫 Conecte-se comigo!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gustavo-zago-de-lima-23459526b/)
+## 🌐 Social Media
+
+<div align="center">
+  <a href="https://www.instagram.com/zago_gusta" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-zago-de-lima-23459526b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 ---
 

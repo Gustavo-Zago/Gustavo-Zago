@@ -34,12 +34,11 @@ Sou desenvolvedor apaixonado por resolver problemas através da tecnologia. 🚀
 ## 📊 GitHub Stats:
 
 <div align="center">
-    ![Gustavo Zago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Zago&show_icons=true&theme=dracula)
-
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Zago&layout=compact&theme=dracula)
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Zago&show_icons=true&theme=dracula" alt="Gustavo Zago's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Zago&layout=compact&theme=dracula" alt="Top Langs"/>
 </div>
----
 
+---
 ## 🌐 Social Media
 
 <div align="center">

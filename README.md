@@ -4,6 +4,11 @@ Sou desenvolvedor apaixonado por resolver problemas através da tecnologia. 🚀
 
 ---
 
+<div align="center">
+  <img src="/octocat-1744380572172.png" alt="Gustavo Zago Octocat" width="300"/>
+</div>
+
+
 ## 🛠️ Tecnologias que já usei:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
